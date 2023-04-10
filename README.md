@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nogaye diop
-- 👀 je sais coder avec plusieurs langage de programmation comme JAVA ,JAVASCRIPT,HTML ,PHP,XML,SPRINT BOOT et autres
-- 🌱 j ai fais mon cursus universitaire à UVS et licencée en Mathematiques appliquées et informatiques en 2019/2020
-- 💞️ j aimerai collaborer  avec les partenaires qui  s'interessent de la programmation ,et je suis trés motivée par le travail d'équipe
-- 📫 vous pouvez me contactez via mon gmail:nogayediop973@gmail.com 
+- 👋 hello word je m'appelle Nogaye diop Développeuse FULL-Stack
+- j ai eu mon licence en Mathematiques appliquées à l'informatique en 2019/2020 à UVS actuellement Université numérique Cheikh Hamidou KANE
+- je suis passé à Webgram puis à  Bitchritech et je suis actuellement à lebalma
+- 💞️ j aime collaborer  avec des partenaires qui  s'interessent à la programmation ,et je suis trés motivée par le travail d'équipe 
+- 📫 vous pouvez me contactez via mon gmail:nogayediop973@gmail.com  ou par linkedin: https://www.linkedin.com/in/nogaye-diop-409315151/
 - MERCI
 
 <!---
