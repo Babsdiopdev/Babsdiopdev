@@ -4,7 +4,8 @@
 - 
 - Elle est passé à Webgram puis à  Bitchritech et est  actuellement à lebalma
 - 💞️ elle aime la collaboration et est tres motivée par le travail d'équipe 
-- 📫 vous pouvez la contactez via mon gmail:nogayediop973@gmail.com  ou par linkedin: https://www.linkedin.com/in/nogaye-diop-409315151/
+- 📫 vous pouvez la contactez via mon gmail:jiguenit2023@gmail.com  ou par linkedin: https://www.linkedin.com/in/nogaye-diop-409315151/
+- Son portfolio:https://babsdiopdev.github.io/jiguenitportfolio/
 - MERCI
 
 <!---
