@@ -1,6 +1,7 @@
 ## 🚀 About Me
 I'm NOGAYE DIOP
 I'm a full stack developer and sysAdmin 
+CEO Jigeen'IT
 
 portfolio: https://jiguenit.cloud
 
